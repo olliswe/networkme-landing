@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Testing
+title: Welcome to Network Me SL
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Find your next job now!
+subheading: We connect employers to young and motivated talent!
 mainpitch:
-  title: Why Kaldi
+  title: Why Network Me SL?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
