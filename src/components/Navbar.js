@@ -60,7 +60,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="https://networkmesl-app.firebaseapp.com/login">
+              <Link className="navbar-item" target="_blank" to="https://networkmesl-app.firebaseapp.com/login">
                 Job Portal
               </Link>
               <Link className="navbar-item" to="/about">
