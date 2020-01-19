@@ -19,14 +19,14 @@ description: >-
   Builders, gardeners etc). 
 intro:
   blurbs:
-    - image: /img/vectorjob.png
+    - image: /img/group-2.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/grouptraining.png
+    - image: /img/group.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
