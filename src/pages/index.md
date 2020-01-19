@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to Network Me SL
-image: /img/home-jumbotron.jpg
+image: /img/networkme.jpg
 heading: Find your next job now!
 subheading: We connect employers to young and motivated talent!
 mainpitch:
