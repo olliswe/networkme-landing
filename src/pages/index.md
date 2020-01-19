@@ -19,10 +19,10 @@ description: >-
   Builders, gardeners etc). 
 intro:
   blurbs:
-    - image: /img/jobsearch.png
+    - image: /img/group-3jobtraining2.png
       text: >-
         - We offer a range of free monthly soft skills training, mentorship and
-        provide apprenticeship (Internship) opportunities. 
+        provide apprenticeship (Internship) opportunities. <br/>
 
         - We create employment and market driven opportunities for skilled
         workers and graduates in areas of high market demand.
@@ -30,7 +30,7 @@ intro:
       text: >-
         - We promote entrepreneurship by link women with amazing ideas to
         mentorship institutions to grow their ideas and pitch for funding and
-        scale up opportunities. 
+        scale up opportunities. <br/>
 
         - We make learning easy and interesting by providing tailor made
         trainings videos that targets skill gaps, provide basic service training
@@ -39,13 +39,13 @@ intro:
       text: >
         - NMSL’s social network platform provides exciting networking
         opportunity fir employees and employers with a wide range of view
-        coverage.  
+        coverage.  <br/>
 
         - We Advertise jobs, events, scholarship links, funding and grants.
     - image: /img/meeting-space.png
       text: >
         - We provide real time data that can be used to provide quarterly report
-        on trending market driven skills that will inform decision makers. 
+        on trending market driven skills that will inform decision makers. <br/>
 
         - Our youth training program provides a platform for SL leaders to
         engage youths on city challenge, solutions and inclusion.
