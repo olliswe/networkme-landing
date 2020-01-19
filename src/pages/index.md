@@ -21,27 +21,22 @@ intro:
   blurbs:
     - image: /img/group-3jobtraining2.png
       text: >-
-        - We offer a range of free monthly soft skills training, mentorship and
-        provide apprenticeship (Internship) opportunities. <br/>
-
-        - We create employment and market driven opportunities for skilled
-        workers and graduates in areas of high market demand.
+        We offer a range of free monthly soft skills training, mentorship and
+        provide apprenticeship (Internship) opportunities. We create employment
+        and market driven opportunities for skilled workers and graduates in
+        areas of high market demand.
     - image: /img/trainingpic.png
       text: >-
-        - We promote entrepreneurship by link women with amazing ideas to
+        We promote entrepreneurship by link women with amazing ideas to
         mentorship institutions to grow their ideas and pitch for funding and
-        scale up opportunities. <br/>
-
-        - We make learning easy and interesting by providing tailor made
-        trainings videos that targets skill gaps, provide basic service training
-        for skilled workers.
+        scale up opportunities. We make learning easy and interesting by
+        providing tailor made trainings videos that targets skill gaps, provide
+        basic service training for skilled workers.
     - image: /img/tutorials.png
       text: >
-        - NMSL’s social network platform provides exciting networking
-        opportunity fir employees and employers with a wide range of view
-        coverage.  <br/>
-
-        - We Advertise jobs, events, scholarship links, funding and grants.
+        NMSL’s social network platform provides exciting networking opportunity
+        fir employees and employers with a wide range of view coverage.  We
+        Advertise jobs, events, scholarship links, funding and grants.
     - image: /img/meeting-space.png
       text: >
         - We provide real time data that can be used to provide quarterly report
