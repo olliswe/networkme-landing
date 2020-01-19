@@ -11,8 +11,12 @@ mainpitch:
     empowerment network that poised at filling the professional, entrepreneurial
     and requisite skills gap in the Sierra Leonean space. 
 description: >-
-  We offer a range of free monthly soft skills training, mentorship and provide
-  apprenticeship (Internship) opportunities. 
+  Our online platform creates and provides various opportunities for young
+  people and seek to build a social network of Sierra Leonean youth whilst
+  providing tailor made training on trending market demand skills. Our main
+  areas of focus are unemployed youth (Graduates, especially Girls) and Skilled
+  workers (Carpenters, Plumbers, Still benders, Electricians, Wielders,
+  Builders, gardeners etc). 
 intro:
   blurbs:
     - image: /img/coffee.png
