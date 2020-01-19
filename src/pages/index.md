@@ -19,19 +19,22 @@ description: >-
   Builders, gardeners etc). 
 intro:
   blurbs:
-    - image: /img/group-2.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/group.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/grouptraining-2-.png
+      text: >-
+        - We offer a range of free monthly soft skills training, mentorship and
+        provide apprenticeship (Internship) opportunities. 
+
+        - We create employment and market driven opportunities for skilled
+        workers and graduates in areas of high market demand.
+    - image: /img/grouptraining-1-.png
+      text: >-
+        - We promote entrepreneurship by link women with amazing ideas to
+        mentorship institutions to grow their ideas and pitch for funding and
+        scale up opportunities. 
+
+        - We make learning easy and interesting by providing tailor made
+        trainings videos that targets skill gaps, provide basic service training
+        for skilled workers.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
