@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
 title: Welcome to Network Me SL
-image: /img/home-jumbotron.jpg
+image: /img/networkme.jpg
 heading: Find your next job now!
 subheading: We connect employers to young and motivated talent!
 mainpitch:
   title: Why Network Me SL?
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >-
+    NetworkMe Sierra Leone Limited (NMSL) is a skills development and
+    empowerment network that poised at filling the professional, entrepreneurial
+    and requisite skills gap in the Sierra Leonean space. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our online platform creates and provides various opportunities for young
+  people and seek to build a social network of Sierra Leonean youth whilst
+  providing tailor made training on trending market demand skills. Our main
+  areas of focus are unemployed youth (Graduates, especially Girls) and Skilled
+  workers (Carpenters, Plumbers, Still benders, Electricians, Wielders,
+  Builders, gardeners etc). 
 intro:
   blurbs:
     - image: /img/coffee.png
