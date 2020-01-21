@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: First Blog Post
+title: Network Me SL is now live!
 date: 2019-11-17T10:33:46.081Z
-description: Testing
+description: Weclome to our site!
 featuredpost: false
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/sierra_leone_0.jpg
 tags:
   - testing
 ---
