@@ -6,6 +6,6 @@ description: Welcome to our site!
 featuredpost: false
 featuredimage: /img/sierra_leone_0.jpg
 tags:
-  - testing
+  - news
 ---
-Testing
+Please sign up to our service!
