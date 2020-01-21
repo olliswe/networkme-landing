@@ -39,11 +39,11 @@ intro:
         Advertise jobs, events, scholarship links, funding and grants.
     - image: /img/group-1data.png
       text: >
-        - We provide real time data that can be used to provide quarterly report
-        on trending market driven skills that will inform decision makers. <br/>
 
-        - Our youth training program provides a platform for SL leaders to
-        engage youths on city challenge, solutions and inclusion.
+        We provide real time data that can be used to provide quarterly report
+        on trending market driven skills that will inform decision makers. Our
+        youth training program provides a platform for SL leaders to engage
+        youths on city challenge, solutions and inclusion.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
