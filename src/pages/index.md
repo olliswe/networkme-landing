@@ -32,12 +32,12 @@ intro:
         scale up opportunities. We make learning easy and interesting by
         providing tailor made trainings videos that targets skill gaps, provide
         basic service training for skilled workers.
-    - image: /img/tutorials.png
+    - image: /img/groupnetwork.png
       text: >
         NMSL’s social network platform provides exciting networking opportunity
         fir employees and employers with a wide range of view coverage.  We
         Advertise jobs, events, scholarship links, funding and grants.
-    - image: /img/meeting-space.png
+    - image: /img/group-1data.png
       text: >
         - We provide real time data that can be used to provide quarterly report
         on trending market driven skills that will inform decision makers. <br/>
