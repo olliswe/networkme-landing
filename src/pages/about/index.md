@@ -1,19 +1,58 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Who We Are
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+NetworkMe Sierra Leone Limited (NMSL) is a skills development and empowerment network that poised at filling the professional, entrepreneurial and requisite skills gap in the Sierra Leonean space. Our online platform creates and provides various opportunities for young people and seek to build a social network of Sierra Leonean youth whilst providing tailor made training on trending market demand skills. Our main areas of focus are unemployed youth (Graduates, especially Girls) and Skilled workers (Carpenters, Plumbers, Still benders, Electricians, Wielders, Builders, gardeners etc). 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### What We Do
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+• We offer a range of free monthly soft skills training, mentorship and provide apprenticeship (Internship) opportunities. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+• We create employment and market driven opportunities for skilled workers and graduates in areas of high market demand.
+
+• We promote entrepreneurship by link women with amazing ideas to mentorship institutions to grow their ideas and pitch for funding and scale up opportunities. 
+
+• We make learning easy and interesting by providing tailor made trainings videos that targets skill gaps, provide basic service training for skilled workers.
+
+• NMSL’s social network platform provides exciting networking opportunity fir employees and employers with a wide range of view coverage.  
+
+• We Advertise jobs, events, scholarship links, funding and grants.
+
+• We provide real time data that can be used to provide quarterly report on trending market driven skills that will inform decision makers.
+
+• Our youth training program provides a platform for SL leaders to engage youths on city challenge, solutions and inclusion.
+
+### 
+
+### Our Mission
+
+• Our mission is to train 3,000 youth in basic office skills and reduce unemployment by 20% by 2023
+
+### Vision
+
+• Building a Sierra Leonean workforce of resilient & self-dependent youth, in both the professional and middle man level.
+
+### 
+
+### Youth training program – areas of focus.
+
+
+
+* Administration 
+* Costumer services
+* Project Management 
+* Financial management
+* Data Analysis 
+* Basic WP website design
+* Marketing and Sales                                     
+* Human Resource
+* Data Collection and survey                          
+* Communications & Media
+* Renewable energy                                        
+* Entrepreneurship
+
+### 
+
+###
