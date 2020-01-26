@@ -20,7 +20,7 @@ NetworkMe Sierra Leone Limited (NMSL) is a skills development and empowerment ne
 
 • We Advertise jobs, events, scholarship links, funding and grants.
 
-### \    • We provide real time data that can be used to provide quarterly report on trending market driven skills that will inform decision makers.
+• We provide real time data that can be used to provide quarterly report on trending market driven skills that will inform decision makers.
 
 • Our youth training program provides a platform for SL leaders to engage youths on city challenge, solutions and inclusion.
 
