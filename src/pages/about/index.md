@@ -38,31 +38,20 @@ NetworkMe Sierra Leone Limited (NMSL) is a skills development and empowerment ne
 
 ### Youth training program – areas of focus.
 
-### 
 
-Administration 
 
-Costumer services
-
-Project Management 
-
-Financial management
-
-Data Analysis 
-
-Basic WP website design
-
-Marketing and Sales                                     
-
-Human Resource
-
-Data Collection and survey                          
-
-Communications & Media
-
-Renewable energy                                        
-
-Entrepreneurship
+* Administration 
+* Costumer services
+* Project Management 
+* Financial management
+* Data Analysis 
+* Basic WP website design
+* Marketing and Sales                                     
+* Human Resource
+* Data Collection and survey                          
+* Communications & Media
+* Renewable energy                                        
+* Entrepreneurship
 
 ### 
 
