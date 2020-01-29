@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/logo.svg'
+import {REACT_APP_URL} from "../constants";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -60,7 +61,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <a className="navbar-item" target="_blank" href="https://networkmesl-app.firebaseapp.com/login">
+              <a className="navbar-item" target="_blank" href={REACT_APP_URL}>
                 Job Portal
               </a>
               <Link className="navbar-item" to="/about">
