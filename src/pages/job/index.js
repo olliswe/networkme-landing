@@ -1,8 +1,8 @@
 import Layout from '../../components/Layout'
 import React, {useEffect, useState, Fragment} from 'react'
-import {API_URL, REACT_APP_URL} from "../../constants";
+import {API_URL, REACT_APP_URL, GATSBY_SITE} from "../../constants";
 import {Typography, Paper, Container, Box, CircularProgress, Grid, Divider, Fab} from '@material-ui/core';
-
+import ShareButton from "../../components/ShareButton";
 
 const JobPage = (props) => {
 
@@ -44,8 +44,10 @@ const JobPage = (props) => {
                             </Grid>
                             :
                             <Box style={{padding:30}}>
-                                <Typography variant='h4'>{jobRequest.data.title}</Typography>
-                                <Typography variant='h5'>posted by <strong>{jobRequest.data.employer.organization}</strong> {jobRequest.data.timesince_post} ago </Typography>
+                                <Grid container justify='space-between'>
+                                    <Typography variant='h4'>{jobRequest.data.title}</Typography>
+                                    <ShareButton url={GATSBY_SITE+'job?'+jobRequest.data.slug}/>
+                                </Grid>                                <Typography variant='h5'>posted by <strong>{jobRequest.data.employer.organization}</strong> {jobRequest.data.timesince_post} ago </Typography>
                                 <Divider variant="left"/>
                                 <Typography dangerouslySetInnerHTML={{__html:jobRequest.data.description}} style={{marginTop:20, lineHeight:'1.5em'}}></Typography>
                                 <Divider style={{marginTop:30, marginBottom:30}}/>
