@@ -61,7 +61,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <a className="navbar-item" target="_blank" href={REACT_APP_URL}>
+              <a className="navbar-item" target="_blank" href={REACT_APP_URL+'login'}>
                 Job Portal
               </a>
               <Link className="navbar-item" to="/about">
