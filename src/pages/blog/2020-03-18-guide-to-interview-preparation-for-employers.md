@@ -9,7 +9,7 @@ description: >-
   time but it pays off: you’ll evaluate candidate skills more effectively and
   create a positive candidate experience. In addition, you’re more likely to win
   over the candidate you’ll eventually want to hire.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/interview-preparation-program-by-pavan-kumar-ias-2017.jpg
 tags:
   - NMSL
