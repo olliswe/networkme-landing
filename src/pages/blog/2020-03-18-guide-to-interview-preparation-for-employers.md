@@ -14,7 +14,7 @@ featuredimage: /img/interview-preparation-program-by-pavan-kumar-ias-2017.jpg
 tags:
   - NMSL
 ---
-**Here are six tips for interviewer preparation before an interview:**
+## <https://www.networkmesl.org/admin/#/collections/blog/entries/2020-03-18-guide-to-interview-preparation-for-employers>**Here are six tips for interviewer preparation before an interview:**
 
 * **Prepare your interview questions**
 
@@ -60,7 +60,8 @@ If there are several hiring team members who will interview candidates in a seri
 
 If possible, clear your schedule at least 15 minutes before and after each interview. It’s best not to leave candidates waiting while you finish up a meeting, or having to rush them out if you have a meeting right after the interview. Giving them time and your full attention is more likely to earn their respect. If you’re doing a video interview, check your laptop, camera and microphone a few minutes before the interview so you’ll have time to correct any possible issues.
 
-Also, plan a rough agenda for the interview. Completely unstructured interviews, where the interviewer improvises, are not effective. By having an agenda, you’ll be able to guide the discussion more efficiently and make sure you won’t forget to cover any important topics. Determine how you’ll open the discussion and how you’ll close. 
+Also, plan a rough agenda for the interview. Completely unstructured interviews, where the interviewer improvises, are not effective. By having an agenda, you’ll be able to guide the discussion more efficiently and make sure you won’t forget to cover any important topics.
+ Determine how you’ll open the discussion and how you’ll close. 
 
 Always introduce yourself and discuss about a test or assessment candidates took as part of your hiring process. For example, if your candidates for an Editor role were given an editing exercise, ask them what they thought of it and discuss their performance.
 
